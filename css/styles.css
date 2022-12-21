@@ -1,7 +1,17 @@
 body {
     background-color: linen;
     text-align: center;
+
 }
+.container {
+    width: 300px;
+    border: dashed blue 1px;
+  }
+  
+  .container img {
+    max-height: 100%;
+    max-width: 100%;
+  }
 .title { 
     text-align: center;
     background-color: crimson;
