@@ -5,7 +5,7 @@ body {
 }
 .container {
     width: 300px;
-    border: dashed blue 1px;
+    border: dashed forestgreen 6px;
   }
   
   .container img {
@@ -26,7 +26,7 @@ body {
      
 .contact {
     text-align: center;
-    border: 3px solid green;
+    border: 3px solid forestgreen;
 
 }
 p1 {
